@@ -1,0 +1,15 @@
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\bin\Debug\net6.0\duodecimal-calculator.exe
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\bin\Debug\net6.0\duodecimal-calculator.deps.json
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\bin\Debug\net6.0\duodecimal-calculator.runtimeconfig.json
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\bin\Debug\net6.0\duodecimal-calculator.dll
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\bin\Debug\net6.0\ref\duodecimal-calculator.dll
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\bin\Debug\net6.0\duodecimal-calculator.pdb
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\obj\Debug\net6.0\duodecimal-calculator.csproj.AssemblyReference.cache
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\obj\Debug\net6.0\duodecimal-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\obj\Debug\net6.0\duodecimal-calculator.AssemblyInfoInputs.cache
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\obj\Debug\net6.0\duodecimal-calculator.AssemblyInfo.cs
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\obj\Debug\net6.0\duodecimal-calculator.csproj.CoreCompileInputs.cache
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\obj\Debug\net6.0\duodecimal-calculator.dll
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\obj\Debug\net6.0\ref\duodecimal-calculator.dll
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\obj\Debug\net6.0\duodecimal-calculator.pdb
+C:\Users\vivian.zitek\Programming\cSharp\Personal Projects\duodecimal-calculator\obj\Debug\net6.0\duodecimal-calculator.genruntimeconfig.cache
