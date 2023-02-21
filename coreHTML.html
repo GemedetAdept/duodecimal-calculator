@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>coreHTML</title>
+</head>
+<body>
+	<input type="checkbox" id="checkBox">
+	<input type="button" id="buttonOne" value="Press" onclick="OnClick()">
+<p id="textto"></p>
+</body>
+</html>
+
+<script type="text/javascript">
+function OnClick() {
+	if (document.getElementById('checkBox').checked)
+		document.getElementById('textto').innerHTML = "Checked!"
+	else
+		document.getElementById('textto').innerHTML = "Unchecked :("
+}
+</script>
