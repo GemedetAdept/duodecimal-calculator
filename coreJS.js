@@ -2,8 +2,8 @@ let inputField = "";
 const validIntegers = ['0','1','2','3','4','5','6','7','8','9','A','B']
 
 function DebugBox() {
-	const basicInteger = new Integer(1,2);
-	document.getElementById('debug').innerHTML = basicInteger.value;
+	let basicInteger = new Integer(1,2);
+	document.getElementById('debug').innerHTML = basicInteger.number;
 }
 
 function NumberPress(buttonValue) {
