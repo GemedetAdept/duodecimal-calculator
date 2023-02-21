@@ -1,0 +1,10 @@
+.test{
+	height:200px;
+	width:200px;
+}
+.buttons {
+	/*position: fixed;*/
+	top: 0.8%;
+	width: 8%;
+}
+/*200px -> 250px 100% zoom >> 1.25x*/
